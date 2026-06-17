@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hey, I'm Ramit 👋</h1>
 
 <p align="center">
@@ -164,4 +164,3 @@ My current focus is on creating AI-powered tools that can solve practical proble
 <p align="center">
   <strong>Building, learning, and shipping one project at a time.</strong>
 </p>
-```
