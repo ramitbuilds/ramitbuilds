@@ -1,166 +1,82 @@
+<div align="center">
 
-<h1 align="center">Hey, I'm Ramit 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:111827,50:273d65,100:527aa5&text=RAMIT%20ARORA&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Founder%20Kid%20of%20India%20%7C%20Developer%20%7C%20Builder&descSize=15&descAlignY=58" width="100%" alt="Ramit Arora - Founder Kid of India" />
 
-<p align="center">
-  <strong>Think It. Build It. Ship It.</strong>
-</p>
+### I build things I wish existed.
 
-<p align="center">
-  Student Developer · AI Enthusiast · Entrepreneur
-  <br />
-  Building AI-first products with a startup mindset.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ramitbuilds">
-    <img src="https://komarev.com/ghpvc/?username=ramitbuilds&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://linkedin.com/in/ramitbuilds">
-    <img src="https://img.shields.io/badge/LinkedIn-ramitbuilds-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ramitbuilds">
-    <img src="https://img.shields.io/badge/Instagram-@ramitbuilds-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-## About Me
-
-I'm a **student developer**, **AI enthusiast**, and **entrepreneur** focused on turning ambitious ideas into real, usable products.
-
-I enjoy working at the intersection of:
-
-- **AI & Machine Learning**
-- **Product Engineering**
-- **Frontend + Backend Development**
-- **UI/UX Design**
-- **Startup Building**
-
-I’m currently **intermediate and improving**, learning by building projects that are practical, open, and product-driven.
-
----
-
-## Founder Mode
-
-```txt
-Idea → Prototype → Feedback → Improve → Ship
-````
-
-I like building products that feel less like experiments and more like the first version of something real.
-
-My current focus is on creating AI-powered tools that can solve practical problems, automate workflows, and help people move faster.
-
----
-
-## Featured Project
-
-<table>
-  <tr>
-    <td width="70%">
-      <h3>Kairo</h3>
-      <p>
-        <strong>The first AI sales agent that can close deals, learn from every rejection, and evolve its sales strategy — without any human interference.</strong>
-      </p>
-      <p>
-        Kairo is my flagship project and represents the kind of product I love building:
-        AI-first, ambitious, practical, and startup-ready.
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <a href="https://github.com/ramitbuilds/Kairo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramitbuilds&repo=Kairo&theme=transparent&hide_border=true" alt="Kairo repository card" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Projects I'm Building
-
-| Project                                                       | What it is                                                                                           | Focus                                     |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| [**Kairo**](https://github.com/ramitbuilds/Kairo)             | AI sales agent that closes deals, learns from rejection, and evolves its sales strategy autonomously | AI Agents · Sales Automation · Product    |
-| [**OpenTradeRL**](https://github.com/ramitbuilds/OpenTradeRL) | OpenEnv Framework based RL-powered trading agent — no LLM models required                            | Reinforcement Learning · Trading · Python |
-| [**OpenMotion**](https://github.com/ramitbuilds/OpenMotion)   | Open-source AI-powered SaaS for generating professional motion graphics launcher videos              | AI · SaaS · Motion Graphics               |
-
----
-
-## Tech I Work With
+**Founder Kid of India** · Founder at **Falcon Sphere** · **Google Student Ambassador 2026**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Frontend-111827?style=flat&logo=html5&logoColor=E34F26" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-111827?style=flat&logo=nodedotjs&logoColor=339933" alt="Backend" />
-  <img src="https://img.shields.io/badge/UI%2FUX-111827?style=flat&logo=figma&logoColor=F24E1E" alt="UI/UX" />
+  <a href="https://www.ramitarora.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ramitbuilds/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/ramitbuilds/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=ramitbuilds&label=Profile%20views&color=527aa5&style=flat-square" alt="GitHub profile views" />
+
+</div>
 
 ---
 
-## How I Think About Building
+### Hey, I'm Ramit 👋
 
-<table>
-  <tr>
-    <td><strong>Product-first</strong></td>
-    <td>I like starting with the problem, not just the tech stack.</td>
-  </tr>
-  <tr>
-    <td><strong>AI-native</strong></td>
-    <td>I’m interested in systems that learn, adapt, and improve over time.</td>
-  </tr>
-  <tr>
-    <td><strong>Fast execution</strong></td>
-    <td>I believe in building quickly, testing early, and improving continuously.</td>
-  </tr>
-  <tr>
-    <td><strong>Clean experience</strong></td>
-    <td>Good UI/UX matters because products should feel easy to use.</td>
-  </tr>
-</table>
+I'm a student developer and founder from India. I started by creating content, got curious about how technology works, and eventually found myself building software, exploring AI, and bringing people together to make things happen.
 
----
+I love the stretch between **“what if?”** and **“it works.”** My interests sit at the intersection of **AI, product engineering, design, and entrepreneurship**. I'm especially drawn to useful tools that put privacy and the user experience first.
 
-## GitHub Snapshot
+Outside code, I founded **Falcon Sphere**, a youth-led initiative that has brought **15,000+ students** into opportunities to learn, build, compete, and collaborate. I'm also a **Google Student Ambassador (2026)**.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramitbuilds&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Ramit's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramitbuilds&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+### A few milestones
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramitbuilds&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramitbuilds&theme=flat&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
+<img src="https://img.shields.io/badge/Falcon%20Sphere-15K%2B%20Students-527aa5?style=for-the-badge" alt="Falcon Sphere - 15K+ students" />
+<img src="https://img.shields.io/badge/YouTube-35K%2B%20Subscribers%20at%2013-cc3434?style=for-the-badge&logo=youtube&logoColor=white" alt="35K+ YouTube subscribers at 13" />
+<img src="https://img.shields.io/badge/Instagram-7M%2B%20Views%20in%207%20Days-aa477f?style=for-the-badge&logo=instagram&logoColor=white" alt="7M+ Instagram views in seven days" />
 
----
+</div>
 
-## Activity
+The 35K+ YouTube audience grew in six months when I was 13. It taught me that **building a product and getting people to care about it are two different challenges.**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramitbuilds&theme=github-compact&hide_border=true" alt="Ramit's GitHub activity graph" />
-</p>
+### What I like working on
 
----
+- **Local-first AI:** privacy-first speech tools, on-device models, and personal assistants.
+- **AI agents & automation:** practical workflows, experimentation, and better ways for software to use context.
+- **Developer tools & desktop apps:** making useful (and occasionally ridiculous) ideas feel native and fun.
+- **Products & communities:** taking ideas from the first prototype to actual people.
 
-## Connect With Me
+### Tools in my toolbox
 
-<p>
-  <a href="https://linkedin.com/in/ramitbuilds">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ramitbuilds">
-    <img src="https://img.shields.io/badge/Instagram-@ramitbuilds-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=black" alt="Qt" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+### GitHub, in numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ramitbuilds&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Ramit's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramitbuilds&layout=compact&theme=transparent&hide_border=true" alt="Most used languages on GitHub" />
+
+<img src="https://streak-stats.demolab.com?user=ramitbuilds&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
-<p align="center">
-  <strong>Building, learning, and shipping one project at a time.</strong>
-</p>
+<div align="center">
+
+**Think it. Build it. Ship it.**
+
+<sub>Still learning, still experimenting, still shipping.</sub>
+
+</div>
